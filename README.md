@@ -1,6 +1,6 @@
 ### Hi I'm Arvin 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiangming&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiangming&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" /> -->
 
 I'm a senior frontend developer who enjoys building side projects and coding for fun.
 
@@ -15,7 +15,7 @@ I'm a senior frontend developer who enjoys building side projects and coding for
 
 ### Technologies
 
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=61DAFB&style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white&style=flat-square" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwindcss-06B6D4.svg?logo=tailwind-css&logoColor=white&style=flat-square" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Ionic-3880FF.svg?logo=ionic&logoColor=white&style=flat-square" alt="ionic" /> <img src="https://img.shields.io/badge/ant%20design-%230170fe.svg?logo=Ant-design&logoColor=white&style=flat-square" alt="Ant Design" />
+<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=61DAFB&style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white&style=flat-square" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwindcss-06B6D4.svg?logo=tailwind-css&logoColor=white&style=flat-square" alt="TailwindCSS" />
 
 <img src="https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square" alt="CSS3" /> <img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white&style=flat-square" alt="jQuery" /> <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" />
 
@@ -30,7 +30,3 @@ I'm a senior frontend developer who enjoys building side projects and coding for
 ### Tools
 
 <img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white&style=flat-square" alt="docker" /> <img src="https://img.shields.io/badge/Github-181717.svg?logo=github&logoColor=white&style=flat-square" alt="github" /> <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=Bitbucket&logoColor=white&style=flat-square" alt="Bitbucket" />
-
-### Scores
-
-<img src="https://github-profile-trophy.vercel.app/?username=xiangming&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" />
