@@ -4,13 +4,8 @@
 
 I'm a senior frontend developer who enjoys building side projects and coding for fun.
 
-- 🔭 I’m currently working on Tabnice, a browser extension.
-- 🌱 I’m currently learning [ionic](https://ionicframework.com/)
-- 👯 I’m looking to collaborate on side projects
-- 🤔 I’m looking for help with logo design
-- 👨‍💻 I'm the Founder of [远程.work](https://yuancheng.work)
+- 👨‍💻 I'm the Founder of [远程.work](https://yuancheng.work) & [初创.work](https://chuchuang.work/)
 - 😀 Sometimes I write [Blog](https://arvinxiang.com)
-- 💬 Ask me about frontend development
 - 📫 Reach me by [Email](mailto:webappsniper@gmail.com)
 - ⚡ WeChat: xm282818269
 
