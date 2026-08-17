@@ -1,32 +1,77 @@
-### Hi I'm Arvin 👋
+# Arvin Xiang
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiangming&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" /> -->
+**AI Product Engineer.** 15 年工程经验，现在做 AI Native 产品——把 Agent 的能力
+落成用户真的会用、也愿意付费的东西。
 
-I'm a senior frontend developer who enjoys building side projects and coding for fun.
+- 🎙️ 白天在 Quantum Temple 主导 AI 语音旅行助手 **[Dunia](https://dunia.co)** 的移动端与 Agent 交互层：
+  把 Tool Call 编排成界面，让「语音说了什么」和「屏幕显示什么」实时对齐。已上架 App Store。
+- 🔀 同期做 **agent 驱动的提案流水线**：21 工具的 MCP server、人在环的状态机、
+  以及把整套 MCP 服务端灰度迁移到新后端。
+- 🚀 晚上一个人做产品：7 个上线的 Web 产品 + 1 个 [App Store 应用](https://apps.apple.com/cn/app/id6761793902)，
+  支付、会员、内容后台全部自建。
+- 📮 [arvinxiang.com](https://arvinxiang.com) · [me@arvinxiang.com](mailto:me@arvinxiang.com)
 
-- 👨‍💻 I'm the Founder of [远程.work](https://yuancheng.work) & [初创.work](https://chuchuang.work/)
-- 😀 Sometimes I write [Blog](https://arvinxiang.com)
-- 📫 Reach me by [Email](mailto:webappsniper@gmail.com)
-- ⚡ WeChat: xm282818269
+---
 
-### Languages
+### 在做的产品
 
-<img src="https://img.shields.io/badge/JavaScript-000.svg?logo=javascript&logoColor=F7DF1E&style=flat-square" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white&style=flat-square" alt="TypeScript" /> <img src="https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white&style=flat-square" alt="Markdown" />
+| 产品 | 是什么 |
+|---|---|
+| **[初创.site](https://chuchuang.site)** | 一句话生成能直接上线的产品官网 |
+| **[初创.work](https://chuchuang.work)** | 让你的新产品被看见，找到最早的一批用户 |
+| **[远程.work](https://yuancheng.work)** | 中文远程工作招聘平台 |
+| **[每周见](https://meizhoujian.com)** | 在自己的城市认识 6–10 个聊得来的人，一杯咖啡的价格 |
+| **[打赏网](https://dashang.me)** | 国内版 Ko-fi：一分钟拿到收款主页，粉丝微信支付宝直接打赏 |
+| **[咋约](https://zayue.com)** | 不用滑卡：AI 先读懂你，一次只推一个人，目标是真的见上面 |
+| **[Luma SEO](https://lumaseo.com)** | 批量生成能被 AI 搜索引用的内容 |
+| **[穿搭日记](https://apps.apple.com/cn/app/id6761793902)** | 拍一张今天的穿搭，AI 给你打分、点评和改进建议 |
 
-### Technologies
+这些产品共享一套自己写的底座：**order-first 通用收银台**（微信 / 支付宝，服务端定价、订单先行、
+支付后凭单自交付）、**邮箱即身份的免登录会员体系**（付款态或验证码换 JWT，不做注册登录）、
+模块化的 headless WordPress 后端。一个 pnpm monorepo 装下 25 个应用和 14 个共享包。
 
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=61DAFB&style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=Next.js&logoColor=white&style=flat-square" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwindcss-06B6D4.svg?logo=tailwind-css&logoColor=white&style=flat-square" alt="TailwindCSS" />
+几个值得说的点：初创.site 把「AI 生成 → 行内编辑 → 一键发布」做成了一条路，
+子域名和自定义域名都能绑；初创.work 收了 2300+ 个产品，全站静态预渲染加按需失效，
+导航栏是即时补全、回车才走完整检索；穿搭日记跑在 RN + Expo 新架构上，
+双模型容灾加自建反代解决国内直连不通，订阅内购和 OTA 热更新都是自己接的。
 
-<img src="https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square" alt="CSS3" /> <img src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jQuery&logoColor=white&style=flat-square" alt="jQuery" /> <img src="https://img.shields.io/badge/Bootstrap-%237952b3.svg?logo=bootstrap&logoColor=white&style=flat-square" alt="Bootstrap" />
+---
 
-<img src="https://img.shields.io/badge/WordPress-21759B.svg?logo=WordPress&logoColor=white&style=flat-square" alt="WordPress" /> <img src="https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&logoColor=white&style=flat-square" alt="PHP" /> <img src="https://img.shields.io/badge/Mysql-4479A1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" />
+### 我解决的问题
 
-<img src="https://img.shields.io/badge/NPM-%23cb0000.svg?logo=npm&logoColor=white&style=flat-square" alt="npm" /> <img src="https://img.shields.io/badge/Babel-%23323330.svg?logo=babel&logoColor=%23f9dc3e&style=flat-square" alt="Babel" /> <img src="https://img.shields.io/badge/Webpack-%231e72b3.svg?logo=Webpack&logoColor=white&style=flat-square" alt="Webpack" />
+**Agent 工作流与人机协同** — MCP 工具设计、可被人打断的状态机（任一决策点转人工）、
+重试安全的幂等契约、版本链与 supersede 语义。
+做 agent 流水线真正难的不是接 LLM，是**出错时怎么收场**：
+接单幂等键怎么定、改主意了旧版本怎么退休、哪一步必须停下来等人。
 
-<img src="https://img.shields.io/badge/Node.js-%2343853d.svg?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" /> <img src="https://img.shields.io/badge/Mongodb-%234ea94b.svg?logo=Mongodb&logoColor=white&style=flat-square" alt="MongoDB" />
+**Agent 的人机交互层** — Tool Call → UI 编排、实时语音打断与时序控制、
+长会话状态的持久化与恢复。会搭 Agent 的人很多，能把语音交互调顺的很少。
 
-<img src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white&style=flat-square" alt="Jest" /> <img src="https://img.shields.io/badge/Testing Library-E33332.svg?logo=testing-library&logoColor=white&style=flat-square" alt="Testing Library" />
+**一个人跑完全链路** — 产品定义 → 架构 → 开发 → 支付 → 部署 → 增长。
+不是「什么都会一点」，是每一环都真的上线收过钱。
 
-### Tools
+**让东西被找到** — Technical SEO 与性能优化的老本行：
+在一个年销售额 10 亿级的 B2B 平台上做到自然流量 +50%、加载提速 60%、转化率 +20%，覆盖 30+ 国家站点。
 
-<img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white&style=flat-square" alt="docker" /> <img src="https://img.shields.io/badge/Github-181717.svg?logo=github&logoColor=white&style=flat-square" alt="github" /> <img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=Bitbucket&logoColor=white&style=flat-square" alt="Bitbucket" />
+---
+
+### 技术栈
+
+```
+AI/Agent    LiveKit · WebRTC · Tool Call 编排 · MCP · LangGraph/LangChain SDK · pgvector · RAG
+Web         React 19 · Next.js · TypeScript · Tailwind · TanStack Query · Zustand
+Mobile      React Native · Expo · EAS · RevenueCat
+Backend     PostgreSQL · Prisma · Node.js · Headless WordPress · Docker · Nginx
+```
+
+---
+
+### 履历
+
+`2025 – 至今` &nbsp;**Quantum Temple** · 资深全栈工程师 — AI 语音产品 Dunia，主导移动端与 Agent 交互层<br>
+`2020 – 2025` &nbsp;**优必选机器人** · 高级前端工程师 — AIGC 3D 教育产品，获深圳市教育局采购落地全市中小学<br>
+`2014 – 2020` &nbsp;**Flashbay** · 前端负责人 — 10 亿级 B2B 电商平台全球化与增长，覆盖 30+ 国家站点<br>
+`2011 – 2014` &nbsp;**富士康重庆研发中心** · 研发工程师
+
+<sub>下面的仓库大多是 2013–2016 年的旧作，近年的工作在私有仓库里。
+[landscape-plus](https://github.com/xiangming/landscape-plus) 是早年给 hexo 写的主题优化，攒了 500+ star，留个纪念。</sub>
