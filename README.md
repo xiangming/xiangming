@@ -2,11 +2,11 @@
 
 **AI Product Engineer.** 15 年工程经验，现在做 AI Native 产品——把 Agent 的能力落成用户真的会用、也愿意付费的东西。
 
-**白天** 在 Quantum Temple 做 AI 语音旅行助手 **[Dunia](https://dunia.co)**（已上架 App Store）；同时做 agent 驱动的提案流水线： MCP server，以及一套能在任一决策点停下来转人工的状态机。
+**白天** 在 Quantum Temple 做 AI 语音旅行助手 **[Dunia](https://dunia.co)**（已上架 App Store），主导移动端与 Agent 交互层，把 Tool Call 编排成界面；同时做 agent 驱动的提案流水线——21 工具的 MCP server，以及一套能在任一决策点停下来转人工的状态机。
 
 **晚上** 一个人做产品，从想法到收款全链路自己跑。就是下面这些。
 
-联系我：[me@arvinxiang.com](mailto:me@arvinxiang.com)
+联系我：[webappsniper@gmail.com](mailto:webappsniper@gmail.com)
 
 ---
 
