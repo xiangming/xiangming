@@ -1,26 +1,51 @@
 # Arvin Xiang
 
-**AI Product Engineer.** 15 年工程经验，现在做 AI Native 产品——把 Agent 的能力落成用户真的会用、也愿意付费的东西。
+**Senior Full‑Stack Engineer**
 
-**白天** 在 Quantum Temple 做 AI 语音旅行助手 **[Dunia](https://dunia.co)**（已上架 App Store），主导移动端与 Agent 交互层，把 Tool Call 编排成界面；同时做 agent 驱动的提案流水线——21 工具的 MCP server，以及一套能在任一决策点停下来转人工的状态机。
+15 年工程经验，专注 AI 产品、Agent 交互与全栈开发。
 
-**晚上** 一个人做产品，从想法到收款全链路自己跑。就是下面这些。
+目前在 Quantum Temple 参与 AI 语音旅行助手 **[Dunia](https://dunia.co)** 的研发，主要承担移动端 App、Agent 交互层及运营后台的核心开发；参与 Agent 工作流、Tool Call、MCP 服务迁移与工具契约设计。产品已上架 App Store。
 
-联系我：[webappsniper@gmail.com](mailto:webappsniper@gmail.com)
+同时长期保持独立产品开发实践，已上线 8 个 Web / App 产品。
+
+📧 webappsniper@gmail.com
 
 ---
 
-### 在做的产品
+## Selected Products
 
-| 产品 | 是什么 |
-|---|---|
-| **[初创.site](https://chuchuang.site)** | 一句话生成能直接上线的产品官网 |
-| **[初创.work](https://chuchuang.work)** | 让你的新产品被看见，找到最早的一批用户 |
-| **[穿搭日记](https://apps.apple.com/cn/app/id6761793902)** &nbsp;`iOS` | 拍一张今天的穿搭，AI 给你打分、点评和改进建议 |
-| **[Luma SEO](https://lumaseo.com)** | 批量生成能被 AI 搜索引用的内容 |
-| **[咋约](https://zayue.com)** | 不用滑卡：AI 先读懂你，一次只推一个人，目标是真的见上面 |
-| **[打赏网](https://dashang.me)** | 国内版 Ko-fi：一分钟拿到收款主页，粉丝微信支付宝直接打赏 |
-| **[每周见](https://meizhoujian.com)** | 在自己的城市认识 6–10 个聊得来的人，一杯咖啡的价格 |
-| **[远程.work](https://yuancheng.work)** | 中文远程工作招聘平台 |
+- **[Dunia](https://dunia.co)** — AI voice travel assistant
+- **[初创.site](https://chuchuang.site)** — 一句话创建产品官网
+- **[穿搭日记](https://apps.apple.com/cn/app/id6761793902)** — AI 穿搭评分 App
+- **[Luma SEO](https://lumaseo.com)** — AI SEO / 内容生成工具
+- **[咋约](https://zayue.com)** — AI 约会匹配
+- **[打赏网](https://dashang.me)** — 创作者收款与打赏主页
+- **[每周见](https://meizhoujian.com)** — 城市线下社交
+- **[远程.work](https://yuancheng.work)** — 远程工作招聘平台
 
-这些产品共享一套自己写的底座：**order-first 通用收银台**（微信 / 支付宝，服务端定价、订单先行、支付后凭单自交付）、**邮箱即身份的免登录会员体系**（付款态或验证码换 JWT，不做注册登录）、模块化的 headless WordPress 后端。一个 pnpm monorepo 装下 25 个应用和 14 个共享包。
+---
+
+## Engineering
+
+长期维护一套多产品共享技术底座：
+
+- **25 个应用 / 14 个共享包** — pnpm monorepo
+- **Payment & Membership** — 通用订单、支付与会员体系
+- **AI Gateway** — 多模型统一接入
+- **Backend** — Node.js / PostgreSQL / Headless WordPress
+- **Mobile** — React Native / Expo / EAS
+- **Infrastructure** — Vercel / Cloudflare / Aliyun
+
+---
+
+## Tech Stack
+
+**Frontend:** React · Next.js · TypeScript
+
+**Mobile:** React Native · Expo
+
+**Backend:** Node.js · PostgreSQL · WordPress
+
+**AI:** Agent · Tool Call · MCP · LangGraph · LLM
+
+**Infrastructure:** Vercel · Cloudflare · Docker · GitHub Actions
