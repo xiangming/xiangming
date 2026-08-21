@@ -12,9 +12,9 @@
 
 ---
 
-## Selected Products
+## Independent Products
 
-- **[Dunia](https://dunia.co)** — AI voice travel assistant
+- **[初创.work](https://chuchuang.work)** — 新产品发布与早期用户发现平台
 - **[初创.site](https://chuchuang.site)** — 一句话创建产品官网
 - **[穿搭日记](https://apps.apple.com/cn/app/id6761793902)** — AI 穿搭评分 App
 - **[Luma SEO](https://lumaseo.com)** — AI SEO / 内容生成工具
